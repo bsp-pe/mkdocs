@@ -1,0 +1,11 @@
+site_name: Grafana Slack 설정 메뉴얼
+markdown_extensions:
+  - admonition
+theme: readthedocs
+
+pages:
+  - 홈: index.md
+  - 사용법: how.md
+  - 세부사용법:
+      - "테마": "guide/thme/md"
+      - "구조": "guide/tree.md"
